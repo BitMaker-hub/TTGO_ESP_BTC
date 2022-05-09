@@ -5,6 +5,7 @@ Price display using TTGO_ESP32_Display
 - LILYGO®Placa de desarrollo TTGO t-display
 - Arduino IDE
 - TFT_eSPI Library
+![image](https://github.com/Xinyuan-LilyGO/TTGO-T-Display/blob/master/image/image4.jpg)
 
 # Description
 - Price indication with coin logo of 4 different coins: 
